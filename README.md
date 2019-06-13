@@ -1,4 +1,4 @@
-# Business-Card-AR
+# Business Card AR
 >A Unity project along with all assets, which overlays some information on scanning a business card image target.
 
 ## Note
